@@ -1,0 +1,54 @@
+html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, hr, p, blockquote, img, a, dl, dt, dd, ul, ol, li, pre, em, strong, b, i, fieldset, form, label, legend, button, input, textarea, table, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+body{
+		font: 12px/1.5 "Microsoft Yahei",SimSun;
+}
+a{
+	color: #3C3C3C;
+	text-decoration: none;
+}
+a:hover{
+	color: #1791F0;
+}
+img{
+	border: none;
+}
+ul{
+	list-style: none;
+}
+.hidden_content{
+	color: #FFFFFF;
+	width: 293px;
+	height: 33px;
+	position: absolute;
+	top: 200px;
+	line-height: 33px;
+	display: none;
+}
+.hidden_content a{
+	float: right;
+	color: #1791F0;
+}
+.part1_right h4{
+	width: 293px;
+	height: 36px;
+	line-height: 38px;
+	box-shadow: 0 0 4px #808080;
+}
+.part1_right h4 a{
+	font-size: 16px;
+}
+.togame{
+	width: 70px;
+	height: 30px;
+	background: #FFAF25;
+	color: #FFFFFF;
+	float: right;
+	border-radius: 10px;
+	margin-top: 5px;
+	line-height: 30px;
+}
